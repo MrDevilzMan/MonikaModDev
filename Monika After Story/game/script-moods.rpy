@@ -256,7 +256,7 @@ label mas_mood_scared:
     m 1g "[player], are you alright?"
     m 1f "It's worrying for me to see you're getting scared over things you couldn't control...
     m 1m "I wish I could lend you myself to comfort you at this time..."
-    m 3e "But I can give you a tip on how to calm those anxieties down, [player]."
+    m 3e "But I can give you some of my tip of how to calm those anxieties down, [player]."
     m 3a "You remember how I talked to you about faking confidence?"
     m 3b "The trick on playing confident is to keep a cool exterior, and your head leveled just above the shoulder.
     m "And to do so, you need to maintain your heart rate by taking deep breath until you calm down."
@@ -269,7 +269,7 @@ label mas_mood_scared:
     m 1d "I'm serious. If anything else, you can try putting away your work for a while and do something else for the meantime until you're ready."
     m 1e "I love you so much that I'm also worried when you're worried, [player]."
     m 1k "Your loving girlfriend believes in you, so you can face that anxiety head-on!"
-    m 1l "Ahaha! Sorry, I know that isn't something you'd expect in me."
+    m 1l "Ahaha! Sorry, I know that isn't something you'd expect of me."
     m 5a "Or you can just stay with me until all those anxieties go away."
     m "There's nothing to worry about when we're together~"
     return
