@@ -254,23 +254,23 @@ init 5 python:
 
 label mas_mood_scared:
     m 1g "[player], are you alright?"
-    m 1f "It's worrying for me to see you're getting scared over things you couldn't control...
+    m 1f "It's worrying for me to see you're getting scared over things you couldn't control..."
     m 1m "I wish I could lend you myself to comfort you at this time..."
     m 3e "But I can give you some of my tip of how to calm those anxieties down, [player]."
     m 3a "You remember how I talked to you about faking confidence?"
-    m 3b "The trick on playing confident is to keep a cool exterior, and your head leveled just above the shoulder.
+    m 3b "Keeping a cool exterior and your head held above can contribute to faking your own confidence."
     m "And to do so, you need to maintain your heart rate by taking deep breath until you calm down."
-    m "Maybe, you could take things slowly, and do it one at a time."
+    m "Maybe you could take things slowly, and do it one at a time."
     m "You'd be surprised on how smooth can you be if you let the time flows on it's own."
     m 4b "Or if you have a spare time, you can spend a few minutes to meditate!"
     m 4n "It doesn't necessarily mean you have to cross your legs when sitting on the ground..."
     m 4k "Just by putting on your headphone and listening to your favourite music can count as one!"
-    m 3l "Just make sure you don't get {i}too{/i} carried away while doing so. Ahaha!
+    m 3l "Just make sure you don't get {i}too{/i} carried away while doing so. Ahaha!"
     m 1d "I'm serious. If anything else, you can try putting away your work for a while and do something else for the meantime until you're ready."
     m 1e "I love you so much that I'm also worried when you're worried, [player]."
     m 1k "Your loving girlfriend believes in you, so you can face that anxiety head-on!"
     m 1l "Ahaha! Sorry, I know that isn't something you'd expect of me."
-    m 5a "Or you can just stay with me until all those anxieties go away."
+    m 5a "Or you can just stay here until all those anxieties go away."
     m "There's nothing to worry about when we're together~"
     return
 
